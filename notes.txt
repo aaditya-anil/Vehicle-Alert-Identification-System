@@ -1,0 +1,7 @@
+Images required:
+    App Icon
+    Profile Image
+    Profile Icon
+    Scan Icon
+    Log Out Icon
+    Car Images X 3
